@@ -20,6 +20,8 @@
     
     NSLog(@"Developing");
     
+    NSLog(@"XCode Commit");
+    
 }
 
 
