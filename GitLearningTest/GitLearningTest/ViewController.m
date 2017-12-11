@@ -22,6 +22,8 @@
     
     NSLog(@"XCode Commit");
     
+    NSLog(@"Finish");
+    
 }
 
 
