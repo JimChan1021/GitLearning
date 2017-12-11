@@ -18,7 +18,15 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+
     NSLog(@"Add a line");
+
+    NSLog(@"Developing");
+    
+    NSLog(@"XCode Commit");
+    
+    NSLog(@"Finish");
+
     
 }
 
